@@ -1,2 +1,2 @@
-# three-js
+# three.js
 Nothing
